@@ -1,3 +1,4 @@
+console.clear();
 // create document click that watches the nav links only
 document.addEventListener("click", (e) => {
     const { target } = e;
